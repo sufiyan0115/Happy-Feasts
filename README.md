@@ -1,5 +1,5 @@
 # Happy-Feasts
-Happy Feasts is a Web Application which enables the
+ ● Happy Feasts is a Web Application which enables the
 owners to advertise their restaurants, which then can
 be reviewed by users.  
 
@@ -19,4 +19,4 @@ Mapbox, Passport.
 
 
 # **View Live App**
-https://happyfeasts.herokuapp.com/
+## https://happyfeasts.herokuapp.com/
