@@ -18,5 +18,3 @@ HTML, CSS , JavaScript, EJS, NodeJS, MongoDB,
 Mapbox, Passport.
 
 
-# **View Live App**
-## https://happyfeasts.herokuapp.com/
